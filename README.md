@@ -1,3 +1,7 @@
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,django,git" />
+  </a>
+</p>
 </div>
